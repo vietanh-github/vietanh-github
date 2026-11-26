@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Viet Anh Bui
 
-<!--
-**vietanh-github/vietanh-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Japanese teacher and indie maker based in Hanoi, Vietnam. I build small, useful tools: macOS apps, Telegram bots and web services.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **OneTray**: an all-in-one menu bar toolkit for macOS. https://linva.net/onetray
+- **NeuroLinks**: a Telegram bot that collects shared links and publishes them to a real-time web feed, powered by Firebase.
+
+## Tools I work with
+
+Python · Swift · TypeScript · Firebase · Docker
+
+## Contact
+
+- Website: https://linva.net
+- Telegram: https://t.me/AYingX
